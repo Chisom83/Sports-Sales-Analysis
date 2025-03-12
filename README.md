@@ -48,32 +48,32 @@ and reducing excess inventory during low-demand months.
 ### Data Cleaning & Methodology
 - Handling Missing Values: Most of the colums has missing values, Age column were replaced using the average and the other missing values were deleted due to the absence of unique identifiers.
 - Removing Duplicates:The dataset has no unique colum like the colum Id so duplicates were removed by highlighting the whole column.
+- Ensuring Data Consistency: misspell were corrected to ensure data consistency.
 - Creating an Age Category: Using the IF function, the age were categorize into different group from the age column their by creating the age category column.
 - Creating a Calendar Table: Calendar table was created in power query in excel and linked to the fact table for better time-based analysis.
 - Using Power Pivot for KPIs: Calculated Key performance indicators (KPIs) such as the Total Revenue, Total Orders and Total Profits were calculated using calculated measures in Power Pivot.
 
-### Insights & Visualizations
-Revenue Distribution by Region
-A map chart was used to visualize total revenue across different regions.
-Australia:
-Generated the highest revenue ($1.7M).
-New South Wales is the highest-performing state.
-Tasmania is underperforming and requires attention.
-United States:
-Generated $1.5M across 22 states.
-California is the highest revenue generator.
-Canada:
-Generated $1M across three states.
-British Columbia performed best.
-Alberta and Ontario need improvement.
-United Kingdom:
-Generated $800K but operates only in England.
-Expanding to other states could improve revenue.
+#### Insights & Visualizations
+### Revenue by Region 
+A map chart was used to visualize this making use of the calculated total revenue across different country.
+- Australia: Generated the highest revenue ($1.7M) across five (5) States.
+   - New South Wales is the highest-performing state.
+   - Tasmania is underperforming and requires attention.
+     
+- United States: Generated $1.5M across twenty-two (22) states.
+  - California is the highest revenue generator.
+  - Other States ness improvement.
 
-France:
-Generated $500K across 16 states, requiring significant improvement.
-Germany:
-Generated $700K across six states, needing better strategies for growth.
+- Canada: Generated $1M across three (3) states.
+  - British Columbia performed best.
+  - Alberta and Ontario need improvement.
+    
+- United Kingdom: Generated $800K but operates only in England.
+  
+- France: Generated $500K across 16 states, but still requiring significant improvement across all States.
+
+- Germany: Generated $700K across six states, and also needs better strategies for growth.
+
 Age Group & Gender Analysis
 A doughnut chart was used to analyze revenue by age category.
 Adults (Primary customers):
