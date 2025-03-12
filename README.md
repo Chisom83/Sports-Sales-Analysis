@@ -120,6 +120,9 @@ A bar chart was used to analyze revenue by product subcategory.
      
 #### Sales Seasonality
 A line chart was used to analyze the seasonal sales trend for the month while column chart were used for the season.
+
+<div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Season.png"  alt="Season" width="500"> <div></div>
+     
 Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
 - Peak Sales Periods:
    - March with ($15.2M) had the highest monthly revenue and making up 15% of total revenue, followed by December with ($10.2M) which shows that their increase is due holiday demand.
