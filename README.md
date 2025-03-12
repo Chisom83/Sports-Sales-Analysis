@@ -62,6 +62,9 @@ and reducing excess inventory during low-demand months.
 ### Insights
 #### Revenue by Region 
 A map chart was used to visualize this making use of the calculated total revenue across different country.
+
+<div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Map.png"   alt="Age category" width="500"> <div></div>
+     
 - Australia: Generated the highest revenue ($32.5M) across five (5) States.
    - New South Wales is the highest-performing state with $17.6M.
    - Tasmania is underperforming and requires attention.
