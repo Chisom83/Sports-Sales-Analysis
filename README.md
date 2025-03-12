@@ -1,13 +1,11 @@
 # Sports-Sales-Analysis
 
 ## Table of Contents
-- Project Overview
-- Tools Used & Data Sources
-- Data Cleaning & Methodology
-- Insights & Visualizations
-- Recommendations
-- Dashboard
-- Conclusion
+[Project Overview].(#project-overview).
+[Data Cleaning].(#data-cleaning).
+[Insights & Visualizations].(#insights-&-visualizations).
+[Recommendations].(#recommendation).
+[Conclusion].(#conclusion).
 
 ## Project Overview
 This project analyzes a sports sales dataset spanning six years to evaluate business performance and identify opportunities for growth. The goal is to determine:
@@ -43,7 +41,7 @@ and reducing excess inventory during low-demand months.
    - Analysis
    - Visualization
      
-- Data Source: Sports sales dataset spanning six years
+- Data Source: Sports sales dataset in Microsoft Excel [download here].(https://www.microsoft.com)
 
 ### Data Cleaning & Methodology
 - Handling Missing Values: Most of the colums has missing values, Age column were replaced using the average and the other missing values were deleted due to the absence of unique identifiers.
