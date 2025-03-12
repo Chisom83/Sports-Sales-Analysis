@@ -82,6 +82,9 @@ A map chart was used to visualize this making use of the calculated total revenu
 
 #### Age Group & Gender Analysis
 A doughnut chart was used to analyze revenue by age category.
+
+<div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Age%20cat.png"  alt="Age category" width="500"> <div></div>
+     
 - Our product appeal more to the Adult followed by the Young Adults.
 - Adults (Primary customers)
    - Generated $54.8M, significantly above the average of $34.1M.
@@ -100,6 +103,7 @@ A doughnut chart was used to analyze revenue by age category.
 
 #### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
+
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Product.png" alt="Product" width="500"> <div></div>
      
 - Among all the product sold Bike generated more revenue of $76,254,413 followed by Accessories with $16,756,678 revenue  and lastly Clothing with $9,242,274 revenue.
