@@ -100,6 +100,8 @@ A doughnut chart was used to analyze revenue by age category.
 
 #### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
+<div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Product.png" alt="Product" width="500"> <div></div>
+     
 - Among all the product sold Bike generated more revenue of $76,254,413 followed by Accessories with $16,756,678 revenue  and lastly Clothing with $9,242,274 revenue.
 - Indicating that bike products are the popular products and key product of the business. Also, the business initially focused on bike products before it's expansion. 
 - Bikes most popular product:
