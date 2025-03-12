@@ -74,20 +74,25 @@ A map chart was used to visualize this making use of the calculated total revenu
 
 - Germany: Generated $700K across six states, and also needs better strategies for growth.
 
-Age Group & Gender Analysis
+### Age Group & Gender Analysis
 A doughnut chart was used to analyze revenue by age category.
-Adults (Primary customers):
-Generated $54.8M, significantly above the average of $34.1M.
-Most engaged demographic.
-Young Adults (Secondary customers):
-Generated $34.2M, aligning with the benchmark.
-Youths (Low engagement):
-Generated the least revenue, below the $34.2M benchmark.
-Gender-based analysis:
-Female customers contributed $53.9M.
-Male customers contributed $48.3M.
-Indicates a slightly higher female engagement in purchasing sports products.
-Product Popularity
+- Our product appeal more to the Adult followed by the Young Adults.
+- Adults (Primary customers)
+   - Generated $54.8M, significantly above the average of $34.1M.
+   - They are the most engaged demographic leading to the fact that our product appeal appeal more to them
+   - Female patronize the more than the male with a 7% differences.
+- Young Adults (Secondary customers):
+   - Generated $34.2M, aligning with the benchmark.
+   - Male patronize more than Female with a 3% difference
+- Youths (Low engagement):
+   - Generated the least revenue of, below the average benchmark.
+   - Male patronize more than Female with a 4% difference
+- Gender-based analysis:
+   - Female customers contributed $53.8M.
+   - Male customers contributed $48.4M.
+- This Indicates a slightly higher female engagement in purchasing sports products and also showing that our product appeal to them.
+
+### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
 Bikes are the most popular product:
 Road Bikes generated the highest revenue.
