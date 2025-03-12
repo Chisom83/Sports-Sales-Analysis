@@ -14,52 +14,45 @@ This project analyzes a sports sales dataset spanning six years to evaluate busi
 the best-performing regions, the age group that patronizes the business the most, sales trends over time, Product popularity
 It is important to note that  the Total revenue is used as the primary metric for this  analysis.
 
-KPIs:
-▪ Total Revenue: The total sales revenue generated.
-▪ Order Quantity: The total number of units sold.
-▪ Total Profit: The total profits gotten from sales.
-Business Problems:
-▪
-Revenue Distribution by Region:
-Requirement: Analyze which countries and states generate the most revenue.
-Objective: Target specific regions for promotional campaigns to boost sales in high-revenue areas and identify underperforming regions for 
-improvement.
-▪ Which age groups does our product mostly appeal to :
-Requirement: Group the customers into age groups, eg. less than 25yrs as "Youth", 24-35yrs "Young Adult", more than 35yrs "Adult“ and then 
-check which age group patronizes the most?
-Objective: Tailor marketing strategies to target specific age groups and genders, optimizing product appeal for the key demographic segments.
-▪
-Product Popularity:
-Requirement: Assess how different subcategories of products perform in terms of sales volume.
-Objective: Use insights to refine product offerings, adjust inventory, and promote best-selling items to maximize profit.
-▪ Sales Seasonality:
-Requirement: Identify trends in sales across different times of the year and correlate them with external factors like holidays or cycling season.
-Objective: Plan inventory and marketing efforts according to seasonal peaks and troughs, ensuring sufficient stock during high-demand periods 
-and reducing excess inventory during low-demand months.
 
 ### Business Objectives
-The key business objectives include:
-Total Revenue: Measuring the total sales revenue generated.
-Order Quantity: Evaluating the total number of units sold.
-Total Profit: Calculating the total profits earned.
-Tools Used & Data Sources
-Tool Used: Excel (for data cleaning, analysis, and visualization)
-Data Source: Sports sales dataset spanning six years
+KPIs:
+- Total Revenue: The total sales revenue generated.
+- Order Quantity: The total number of units sold.
+- Total Profit: The total profits gotten from sales.
+#### Business Problems:
+- Revenue Distribution by Region:
+     - Requirement: Analyze which countries and states generate the most revenue.
+     - Objective: Target specific regions for promotional campaigns to boost sales in high-revenue areas and identify underperforming regions for 
+improvement.
+- Which age groups does our product mostly appeal to :
+     - Requirement: Group the customers into age groups, eg. less than 25yrs as "Youth", 24-35yrs "Young Adult", more than 35yrs "Adult“ and then 
+check which age group patronizes the most?
+     - Objective: Tailor marketing strategies to target specific age groups and genders, optimizing product appeal for the key demographic segments.
+- Product Popularity:
+   - Requirement: Assess how different subcategories of products perform in terms of sales volume.
+   - Objective: Use insights to refine product offerings, adjust inventory, and promote best-selling items to maximize profit.
+- Sales Seasonality:
+    - Requirement: Identify trends in sales across different times of the year and correlate them with external factors like holidays or cycling season.
+    - Objective: Plan inventory and marketing efforts according to seasonal peaks and troughs, ensuring sufficient stock during high-demand periods 
+and reducing excess inventory during low-demand months.
 
-Data Cleaning & Methodology
-Data Cleaning Steps:
-1. Handling Missing Values:
-The Age column had missing values, which were replaced using the average.
-Other missing values were deleted due to the absence of unique identifiers.
-2. Removing Duplicates:
-Duplicates were removed since the dataset lacked a unique identifier.
-3. Creating an Age Category:
-Used the IF function to group ages into different categories.
-4. Enhancing Analysis with a Calendar Table:
-A calendar table was created and linked to the fact table for better time-based analysis.
-5. Using Power Pivot for KPIs:
-Calculated key performance indicators (KPIs) using calculated measures in Power Pivot.
-Insights & Visualizations
+### Tools Used & Data Sources
+- Excel for
+   - Data cleaning 
+   - Analysis
+   - Visualization
+     
+- Data Source: Sports sales dataset spanning six years
+
+### Data Cleaning & Methodology
+- Handling Missing Values: Most of the colums has missing values, Age column were replaced using the average and the other missing values were deleted due to the absence of unique identifiers.
+- Removing Duplicates:The dataset has no unique colum like the colum Id so duplicates were removed by highlighting the whole column.
+- Creating an Age Category: Using the IF function, the age were categorize into different group from the age column their by creating the age category column.
+- Creating a Calendar Table: Calendar table was created in power query in excel and linked to the fact table for better time-based analysis.
+- Using Power Pivot for KPIs: Calculated Key performance indicators (KPIs) such as the Total Revenue, Total Orders and Total Profits were calculated using calculated measures in Power Pivot.
+
+### Insights & Visualizations
 Revenue Distribution by Region
 A map chart was used to visualize total revenue across different regions.
 Australia:
