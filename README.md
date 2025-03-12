@@ -11,7 +11,7 @@
 
 ## Project Overview
 This project analyzes a sports sales dataset spanning six years to evaluate business performance and identify opportunities for growth. The goal is to determine:
-the best-performing regions, the age group that patronizes the business the most, sales trends over time, Product popularity
+the best-performing regions, the age group that patronizes the business the most, sales trends over time and Product popularity.
 It is important to note that  the Total revenue is used as the primary metric for this  analysis.
 
 
@@ -26,7 +26,7 @@ KPIs:
      - Objective: Target specific regions for promotional campaigns to boost sales in high-revenue areas and identify underperforming regions for 
 improvement.
 - Which age groups does our product mostly appeal to :
-     - Requirement: Group the customers into age groups, eg. less than 25yrs as "Youth", 24-35yrs "Young Adult", more than 35yrs "Adult“ and then 
+     - Requirement: Group the customers into age groups, eg. less than 24yrs as "Youth", 25-35yrs "Young Adult", more than 35yrs "Adult“ and then 
 check which age group patronizes the most?
      - Objective: Tailor marketing strategies to target specific age groups and genders, optimizing product appeal for the key demographic segments.
 - Product Popularity:
@@ -56,33 +56,33 @@ and reducing excess inventory during low-demand months.
 ### Insights & Visualizations
 #### Revenue by Region 
 A map chart was used to visualize this making use of the calculated total revenue across different country.
-- Australia: Generated the highest revenue ($1.7M) across five (5) States.
-   - New South Wales is the highest-performing state.
+- Australia: Generated the highest revenue ($32.5M) across five (5) States.
+   - New South Wales is the highest-performing state with $17.6M.
    - Tasmania is underperforming and requires attention.
      
-- United States: Generated $1.5M across twenty-two (22) states.
-  - California is the highest revenue generator.
+- United States: Generated $30.8M across twenty-two (22) states.
+  - California is the highest revenue generator $18.0M.
   - Other States ness improvement.
 
-- Canada: Generated $1M across three (3) states.
-  - British Columbia performed best.
+- Canada: Generated $8.0M across three (3) states.
+  - British Columbia performed best with $8.0M.
   - Alberta and Ontario need improvement.
     
-- United Kingdom: Generated $800K but operates only in England.
+- United Kingdom: Generated $11.1M but operates only in England.
   
-- France: Generated $500K across 16 states, but still requiring significant improvement across all States.
+- France: Generated $9.8M across 16 states, but still requiring significant improvement across all States.
 
-- Germany: Generated $700K across six states, and also needs better strategies for growth.
+- Germany: Generated $10.0M across six states, and also needs better strategies for growth.
 
 #### Age Group & Gender Analysis
 A doughnut chart was used to analyze revenue by age category.
 - Our product appeal more to the Adult followed by the Young Adults.
 - Adults (Primary customers)
    - Generated $54.8M, significantly above the average of $34.1M.
-   - They are the most engaged demographic leading to the fact that our product appeal appeal more to them
+   - They are the most engaged demographic leading to the fact that our product appeal more to them
    - Female patronize the more than the male with a 7% differences.
 - Young Adults (Secondary customers):
-   - Generated $34.2M, aligning with the benchmark.
+   - Generated $34.2M, aligning with the average.
    - Male patronize more than Female with a 3% difference
 - Youths (Low engagement):
    - Generated the least revenue of, below the average benchmark.
@@ -94,8 +94,8 @@ A doughnut chart was used to analyze revenue by age category.
 
 #### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
-- Among all the product sold Bike generated more revenue followed by Accessories and lastly Clothing.
-- Indicating that the business initially focused on bike products before expanding. 
+- Among all the product sold Bike generated more revenue of $76,254,413 followed by Accessories with $16,756,678 revenue  and lastly Clothing with $9,242,274 revenue.
+- Indicating that bike products are the popular products and key product of the business. Also, the business initially focused on bike products before it's expansion. 
 - Bikes most popular product:
    - Road Bikes generated the highest revenue followed by Mountain Bikes.
 - Accessories
@@ -107,9 +107,8 @@ A bar chart was used to analyze revenue by product subcategory.
 A line chart was used to analyze the seasonal sales trend for the month while column chart were used for the season.
 Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
 - Peak Sales Periods:
-   - March with ($15.1M) had the highest monthly revenue and making up 10% of total revenue, followed by December which shows that their increase is due holiday demand.
-   - Spring season ($32.7M) generated the higest revenue in the season which is the begining of cyclying period.
-   - December sales increased due to holiday demand.
+   - March with ($15.2M) had the highest monthly revenue and making up 15% of total revenue, followed by December with ($10.2M) which shows that their increase is due holiday demand.
+   - Spring season ($33.6M) generated the higest revenue in the season which is the begining of cyclying period.
 - Low Sales Periods:
    - July to October had lower sales.
      
@@ -117,16 +116,16 @@ Though the store experience a downward sales trend because of holiday and cyclin
 - Revenue by Region
 - Regional Expansion & Marketing
   - More stores should be open in other states in the United Kingdom inorder to increase sales
-  - United States and Austrialia perform well overall, underperforming states in this country and other country need targeted market surveys to identify issues and improve strategies.
+  - United States and Austrialia perform well overall,but underperforming states in this country and other country need targeted market surveys to identify issues and improve strategies.
 - Billboard Advertising 
   - Utilize billboard ads for awareness in different regions so that people will get to known where their stores are located in each states and country.  
 
 - Age category Marketing Strategies
 - Adults (Primary Customers)
-  - Utilize email marketing e.g., fitness tips, new arrivals etc, in marketing to them.
-  - Offer home delivery services to accommodate busy work schedules seeing that most of these people are busy with work.
-  - Family bundles should be introduce to encourage bulk purchases.
-  - Develop a user-friendly website with customer reviews to encourage them to easily access the store online and also be encouraged by other people's review.
+  - Utilize email marketing e.g., fitness tips, new arrivals etc, to market their goods.
+  - Offer home delivery services to accommodate busy work schedules indiviuals seeing that most of these people are busy with work.
+  - Family bundles should be introduce to encourage bulk purchases of product that will increase sales.
+  - Develop a user-friendly website with customer reviews to encourage their customers to easily access the store online and also be encouraged by other people's review.
 - Young Adults
   - Focus on social media marketing (TikTok, Instagram for videos; Facebook for ads; YouTube for video & reviews and Twitter for reviews).
   - Partner with influencers to advertist the product to drive engagement.
@@ -138,15 +137,15 @@ Though the store experience a downward sales trend because of holiday and cyclin
 - Product Popularity
 - Inventory Management
    - Increase inventory for best selling products like the Road and Mountain Bikes so it will always be avaliable.
-   - More research should be carried out before putting discount on underperforming products.
-   - Bundle bikes with accessories or clothing at discounted rates.
+   - More research should be carried on uderperforming product to know the best strategy to be employ.
+   - Bundle bikes with accessories or clothing at discounted rates which will help accessories and clothing to generate sales.
 - Promotional Strategies:
-   - Leverage social media and email marketing for displaying products and new arrivals.
-   - Focus on best-selling products while working out other strategy to enhance sales performance of the low performing products.
+   - Leverage social media and email marketing to displaying products and new arrivals.
+   - Focus on best-selling products while working out other strategy to enhance sales performance for low performing products.
      
 - Sales Seasonality 
   - Inventory should be stocked up for Peak Months:March, May, June, December, and April and reduced in other month.
-  - Based on Season Spring is the best period to stock up across all regions also biking/cycling activities begins from spring.
+  - Based on Season Spring is the best period to stock goods up across all regions because it generates more revenue. Also with the fact that biking/cycling activities begins from spring.
     
 ### Dashboard
 
