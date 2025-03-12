@@ -53,8 +53,8 @@ and reducing excess inventory during low-demand months.
 - Creating a Calendar Table: Calendar table was created in power query in excel and linked to the fact table for better time-based analysis.
 - Using Power Pivot for KPIs: Calculated Key performance indicators (KPIs) such as the Total Revenue, Total Orders and Total Profits were calculated using calculated measures in Power Pivot.
 
-#### Insights & Visualizations
-### Revenue by Region 
+### Insights & Visualizations
+#### Revenue by Region 
 A map chart was used to visualize this making use of the calculated total revenue across different country.
 - Australia: Generated the highest revenue ($1.7M) across five (5) States.
    - New South Wales is the highest-performing state.
@@ -74,7 +74,7 @@ A map chart was used to visualize this making use of the calculated total revenu
 
 - Germany: Generated $700K across six states, and also needs better strategies for growth.
 
-### Age Group & Gender Analysis
+#### Age Group & Gender Analysis
 A doughnut chart was used to analyze revenue by age category.
 - Our product appeal more to the Adult followed by the Young Adults.
 - Adults (Primary customers)
@@ -92,7 +92,7 @@ A doughnut chart was used to analyze revenue by age category.
    - Male customers contributed $48.4M.
 - This Indicates a slightly higher female engagement in purchasing sports products and also showing that our product appeal to them.
 
-### Product Popularity
+#### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
 - Among all the product sold Bike generated more revenue followed by Accessories and lastly Clothing.
 - Indicating that the business initially focused on bike products before expanding. 
@@ -103,7 +103,7 @@ A bar chart was used to analyze revenue by product subcategory.
 - Cleaner 
    - Jersey generate more while Socks is the least.
      
-### Sales Seasonality
+#### Sales Seasonality
 A line chart was used to analyze the seasonal sales trend for the month while column chart were used for the season.
 Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
 - Peak Sales Periods:
@@ -114,13 +114,14 @@ Though the store experience a downward sales trend because of holiday and cyclin
    - July to October had lower sales.
      
 ### Recommendations
+- Revenue by Region
 - Regional Expansion & Marketing
   - More stores should be open in other states in the United Kingdom inorder to increase sales
   - United States and Austrialia perform well overall, underperforming states in this country and other country need targeted market surveys to identify issues and improve strategies.
 - Billboard Advertising 
   - Utilize billboard ads for awareness in different regions so that people will get to known where their stores are located in each states and country.  
 
-- Age-based Marketing Strategies
+- Age category Marketing Strategies
 - Adults (Primary Customers)
   - Utilize email marketing e.g., fitness tips, new arrivals etc, in marketing to them.
   - Offer home delivery services to accommodate busy work schedules seeing that most of these people are busy with work.
@@ -134,7 +135,7 @@ Though the store experience a downward sales trend because of holiday and cyclin
   - Stock more stylish & colorful sportswear to attract the youths.
   - Offer designer bikes to make cycling more appealing.
     
-- Product Strategy
+- Product Popularity
 - Inventory Management
    - Increase inventory for best selling products like the Road and Mountain Bikes so it will always be avaliable.
    - More research should be carried out before putting discount on underperforming products.
@@ -143,15 +144,15 @@ Though the store experience a downward sales trend because of holiday and cyclin
    - Leverage social media and email marketing for displaying products and new arrivals.
    - Focus on best-selling products while working out other strategy to enhance sales performance of the low performing products.
      
-Sales Seasonality Strategy
-1. Stock Up Inventory for Peak Months:
-March, May, June, December, and April require higher inventory.
-2. Region-based Seasonal Planning:
-Spring (March–June) is the best period to stock up across all regions.
-Dashboard
+- Sales Seasonality 
+  - Inventory should be stocked up for Peak Months:March, May, June, December, and April and reduced in other month.
+  - Based on Season Spring is the best period to stock up across all regions also biking/cycling activities begins from spring.
+    
+### Dashboard
+
 The dashboard includes:
-A year, gender, and product slicer for deeper analysis.
-Interactive visualizations to enhance decision-making.
-Conclusion
-The business is performing well but has room for growth. By leveraging social media, targeted marketing, regional expansion, and product bundling, the company can significantly boost sales and profitability.
-Implementing these insights will help maximize revenue and optimize decision-making for sustained growth.
+  - year, gender, and product slicer for deeper analysis.
+  - Interactive visualizations that enhance decision-making.
+    
+### Conclusion
+Sports Sales stores is performing well but their is room for more growth. By leveraging social media, targeted marketing, regional expansion, and product bundling, the store can significantly boost sales and profitability. Implementing these will help maximize revenue and optimize decision-making that will boost sales and growth to a great percentage
