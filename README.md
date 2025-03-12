@@ -94,50 +94,55 @@ A doughnut chart was used to analyze revenue by age category.
 
 ### Product Popularity
 A bar chart was used to analyze revenue by product subcategory.
-Bikes are the most popular product:
-Road Bikes generated the highest revenue.
-Mountain Bikes followed closely.
-Indicates that the business initially focused on bike products before expanding.
-Sales Seasonality
-A line chart and column chart were used to analyze seasonal sales trends.
-Peak Sales Periods:
-March ($15.1M) had the highest monthly revenue.
-Spring season ($32.7M) generated the most revenue.
-December sales increased due to holiday demand.
-Low Sales Periods:
-July to October had lower sales.
-Recommendations
-Regional Expansion & Marketing
-1. United Kingdom Expansion:
-Open more stores in other states beyond England to increase sales.
-2. Australia & United States State-level Strategy:
-While these regions perform well overall, underperforming states need targeted market surveys to identify issues and improve strategies.
-3. Billboard Advertising & Workforce Improvement:
-Utilize billboard ads for awareness.
-Assess employee performance and implement strategic changes if needed
-Age-based Marketing Strategies
-1. For Adults (Main Patrons):
-Utilize email marketing (e.g., fitness tips, new arrivals).
-Offer home delivery services to accommodate busy work schedules.
-Introduce family bundles to encourage bulk purchases.
-Develop a user-friendly website with customer reviews.
-2. For Young Adults:
-Focus on social media marketing (TikTok, Instagram for videos; Facebook for ads; YouTube and Twitter for reviews).
-Use e-commerce and WhatsApp Status for easy browsing and purchases.
-Partner with influencers to drive engagement.
-Introduce installment payment options for affordability.
-3. For Youths (Least Engaged):
-Stock more stylish & colorful sportswear to attract them.
-Offer designer bikes to make cycling more appealing.
-Product Strategy
-1. Bike Inventory Management:
-Increase stock for Road and Mountain Bikes (best-selling products).
-Evaluate bike racks before deciding on discounts.
-2. Bundling Strategy:
-Bundle bikes with accessories or clothing at discounted rates.
-3. Promotional Strategies:
-Leverage social media and email marketing for new arrivals.
-Focus on best-selling products.
+- Among all the product sold Bike generated more revenue followed by Accessories and lastly Clothing.
+- Indicating that the business initially focused on bike products before expanding. 
+- Bikes most popular product:
+   - Road Bikes generated the highest revenue followed by Mountain Bikes.
+- Accessories
+   - Helmets generates more revenue followed by Tires & Tubers while cleaners generates the lowest.
+- Cleaner 
+   - Jersey generate more while Socks is the least.
+     
+### Sales Seasonality
+A line chart was used to analyze the seasonal sales trend for the month while column chart were used for the season.
+Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
+- Peak Sales Periods:
+   - March with ($15.1M) had the highest monthly revenue and making up 10% of total revenue, followed by December which shows that their increase is due holiday demand.
+   - Spring season ($32.7M) generated the higest revenue in the season which is the begining of cyclying period.
+   - December sales increased due to holiday demand.
+- Low Sales Periods:
+   - July to October had lower sales.
+     
+### Recommendations
+- Regional Expansion & Marketing
+  - More stores should be open in other states in the United Kingdom inorder to increase sales
+  - United States and Austrialia perform well overall, underperforming states in this country and other country need targeted market surveys to identify issues and improve strategies.
+- Billboard Advertising 
+  - Utilize billboard ads for awareness in different regions so that people will get to known where their stores are located in each states and country.  
+
+- Age-based Marketing Strategies
+- Adults (Primary Customers)
+  - Utilize email marketing e.g., fitness tips, new arrivals etc, in marketing to them.
+  - Offer home delivery services to accommodate busy work schedules seeing that most of these people are busy with work.
+  - Family bundles should be introduce to encourage bulk purchases.
+  - Develop a user-friendly website with customer reviews to encourage them to easily access the store online and also be encouraged by other people's review.
+- Young Adults
+  - Focus on social media marketing (TikTok, Instagram for videos; Facebook for ads; YouTube for video & reviews and Twitter for reviews).
+  - Partner with influencers to advertist the product to drive engagement.
+  - Introduce installment payment options for affordability and encourage more people who can not pay once patronize the store.
+- Youths 
+  - Stock more stylish & colorful sportswear to attract the youths.
+  - Offer designer bikes to make cycling more appealing.
+    
+- Product Strategy
+- Inventory Management
+   - Increase inventory for best selling products like the Road and Mountain Bikes so it will always be avaliable.
+   - More research should be carried out before putting discount on underperforming products.
+   - Bundle bikes with accessories or clothing at discounted rates.
+- Promotional Strategies:
+   - Leverage social media and email marketing for displaying products and new arrivals.
+   - Focus on best-selling products while working out other strategy to enhance sales performance of the low performing products.
+     
 Sales Seasonality Strategy
 1. Stock Up Inventory for Peak Months:
 March, May, June, December, and April require higher inventory.
