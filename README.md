@@ -1,11 +1,19 @@
 # Sports-Sales-Analysis
 
 ## Table of Contents
-[Project Overview].(#project-overview).
-[Data Cleaning].(#data-cleaning).
-[Insights & Visualizations].(#insights-&-visualizations).
-[Recommendations].(#recommendation).
-[Conclusion].(#conclusion).
+[Project Overview](#project-overview)
+
+
+[Data Cleaning](#data-cleaning)
+
+
+[Insights](#insights)
+
+
+[Recommendations](#recommendations)
+
+
+[Conclusion](#conclusion)
 
 ## Project Overview
 This project analyzes a sports sales dataset spanning six years to evaluate business performance and identify opportunities for growth. The goal is to determine:
@@ -43,7 +51,7 @@ and reducing excess inventory during low-demand months.
      
 - Data Source: Sports sales dataset in Microsoft Excel [download here].(https://www.microsoft.com)
 
-### Data Cleaning & Methodology
+### Data Cleaning 
 - Handling Missing Values: Most of the colums has missing values, Age column were replaced using the average and the other missing values were deleted due to the absence of unique identifiers.
 - Removing Duplicates:The dataset has no unique colum like the colum Id so duplicates were removed by highlighting the whole column.
 - Ensuring Data Consistency: misspell were corrected to ensure data consistency.
@@ -51,7 +59,7 @@ and reducing excess inventory during low-demand months.
 - Creating a Calendar Table: Calendar table was created in power query in excel and linked to the fact table for better time-based analysis.
 - Using Power Pivot for KPIs: Calculated Key performance indicators (KPIs) such as the Total Revenue, Total Orders and Total Profits were calculated using calculated measures in Power Pivot.
 
-### Insights & Visualizations
+### Insights
 #### Revenue by Region 
 A map chart was used to visualize this making use of the calculated total revenue across different country.
 - Australia: Generated the highest revenue ($32.5M) across five (5) States.
