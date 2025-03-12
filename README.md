@@ -158,6 +158,8 @@ Though the store experience a downward sales trend because of holiday and cyclin
 The dashboard includes:
   - year, gender, and product slicer for deeper analysis.
   - Interactive visualizations that enhance decision-making.
+
+<div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Dashboard%20(2).png" alt="Dashboard" width="900"> <div></div>
     
 ### Conclusion
 Sports Sales stores is performing well but their is room for more growth. By leveraging social media, targeted marketing, regional expansion, and product bundling, the store can significantly boost sales and profitability. Implementing these will help maximize revenue and optimize decision-making that will boost sales and growth to a great percentage
