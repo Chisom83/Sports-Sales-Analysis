@@ -65,19 +65,19 @@ A map chart was used to visualize this making use of the calculated total revenu
 
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Map.png"   alt="Age category" width="500"> <div></div>
      
-- Australia: Generated the highest revenue ($32.5M) across five (5) States.
-   - New South Wales is the highest-performing state with $17.6M.
+- Australia: Generated the highest revenue ($32.5M) across five (5) States showing that the bussiness thrive well in this region .
+   - New South Wales is the highest-performing state with $17.6M generating more of the revenue in Austriallia.
    - Tasmania is underperforming and requires attention.
      
 - United States: Generated $30.8M across twenty-two (22) states.
   - California is the highest revenue generator $18.0M.
-  - Other States ness improvement.
+  - Other States need improvement.
 
 - Canada: Generated $8.0M across three (3) states.
-  - British Columbia performed best with $8.0M.
-  - Alberta and Ontario need improvement.
+  - British Columbia performed best with $8.0M generating almost all the whole revenue for Canada.
+  - Alberta and Ontario need urgent improvement.
     
-- United Kingdom: Generated $11.1M but operates only in England.
+- United Kingdom: Generated $11.1M but operates only in England this gives an option for better performance if there well other stores in different States.
   
 - France: Generated $9.8M across 16 states, but still requiring significant improvement across all States.
 
@@ -97,11 +97,11 @@ A doughnut chart was used to analyze revenue by age category.
    - Generated $34.2M, aligning with the average.
    - Male patronize more than Female with a 3% difference
 - Youths (Low engagement):
-   - Generated the least revenue of, below the average benchmark.
+   - Generated the least revenue of 13.2M, below the average benchmark.
    - Male patronize more than Female with a 4% difference
 - Gender-based analysis:
-   - Female customers contributed $53.8M.
-   - Male customers contributed $48.4M.
+   - Female customers generated $53.8M as total over the period of six years.
+   - Male customers generated $48.4M.
 - This Indicates a slightly higher female engagement in purchasing sports products and also showing that our product appeal to them.
 
 #### Product Popularity
@@ -149,7 +149,7 @@ Though the store experience a downward sales trend because of holiday and cyclin
 - Young Adults
   - Focus on social media marketing (TikTok, Instagram for videos; Facebook for ads; YouTube for video & reviews and Twitter for reviews).
   - Partner with influencers to advertist the product to drive engagement.
-  - Introduce installment payment options for affordability and encourage more people who can not pay once patronize the store.
+  - Introduce installment payment options for affordability and encourage more people who can not pay once to patronize the store.
 - Youths 
   - Stock more stylish & colorful sportswear to attract the youths.
   - Offer designer bikes to make cycling more appealing.
@@ -158,7 +158,6 @@ Though the store experience a downward sales trend because of holiday and cyclin
 - Inventory Management
    - Increase inventory for best selling products like the Road and Mountain Bikes so it will always be avaliable.
    - More research should be carried on uderperforming product to know the best strategy to be employ.
-   - Bundle bikes with accessories or clothing at discounted rates which will help accessories and clothing to generate sales.
 - Promotional Strategies:
    - Leverage social media and email marketing to displaying products and new arrivals.
    - Focus on best-selling products while working out other strategy to enhance sales performance for low performing products.
