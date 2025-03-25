@@ -21,12 +21,12 @@ the best-performing regions, the age group that patronizes the business the most
 It is important to note that  the Total revenue is used as the primary metric for this  analysis.
 
 
-### Business Objectives
+### Business Requriement
 KPIs:
 - Total Revenue: The total sales revenue generated.
 - Order Quantity: The total number of units sold.
 - Total Profit: The total profits gotten from sales.
-#### Business Problems:
+#### Business Problems and Objectives
 - Revenue Distribution by Region:
      - Requirement: Analyze which countries and states generate the most revenue.
      - Objective: Target specific regions for promotional campaigns to boost sales in high-revenue areas and identify underperforming regions for 
