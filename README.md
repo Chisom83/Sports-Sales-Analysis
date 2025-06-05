@@ -160,6 +160,7 @@ A line chart was used to analyze the seasonal sales trend for the month while co
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Season.png"  alt="Season" width="500"> <div></div>
 
 *Insights*
+
 Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
 
 - Peak Sales Periods:
