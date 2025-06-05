@@ -64,14 +64,17 @@ and reducing excess inventory during low-demand months.
 ### KPIs
 #### Total Revenue
 > Image
+
 *Insight*
   
 #### Order Quantity
 > Image
+
 *Insight*
 
 #### Total Profit
 > Image
+
 *Insight*
 
 ### Business Requirement
