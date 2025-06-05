@@ -7,7 +7,7 @@
 [Data Cleaning](#data-cleaning)
 
 
-[Insights](#insights)
+[Key Insights](#key-insights)
 
 
 [Recommendations](#recommendations)
