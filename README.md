@@ -171,38 +171,29 @@ Though the store experience a downward sales trend because of holiday and cyclin
    - July to October had lower sales.
      
 ### Recommendations
-- Revenue by Region
-- Regional Expansion & Marketing
-  - More stores should be open in other states in the United Kingdom inorder to increase sales
-  - United States and Austrialia perform well overall,but underperforming states in this country and other country need targeted market surveys to identify issues and improve strategies.
-- Billboard Advertising 
-  - Utilize billboard ads for awareness in different regions so that people will get to known where their stores are located in each states and country.  
+- Regional Expansion & Market Strategy
+  - More stores should be open in the United Kingdom inorder to boost reach and sales
+  - United States and Austrialia perform well overall,but market research needs to be conducted in underperforming state to identify barriers and tailor strategies accordingly.
+- Advertising & Promotion
+  - Use billboard strategically in key areas to increase brand visibilty and guid customers to nearby stores.
 
-- Age category Marketing Strategies
+- Age Targeted Marketing
 - Adults (Primary Customers)
-  - Utilize email marketing e.g., fitness tips, new arrivals etc, to market their goods.
-  - Offer home delivery services to accommodate busy work schedules indiviuals seeing that most of these people are busy with work.
-  - Family bundles should be introduce to encourage bulk purchases of product that will increase sales.
-  - Develop a user-friendly website with customer reviews to encourage their customers to easily access the store online and also be encouraged by other people's review.
-- Young Adults
-  - Focus on social media marketing (TikTok, Instagram for videos; Facebook for ads; YouTube for video & reviews and Twitter for reviews).
-  - Partner with influencers to advertist the product to drive engagement.
-  - Introduce installment payment options for affordability and encourage more people who can not pay once to patronize the store.
-- Youths 
-  - Stock more stylish & colorful sportswear to attract the youths.
-  - Offer designer bikes to make cycling more appealing.
+  - Utilize email marketing (e.g., fitness tips, product updates)to engage and retain them. 
+  - Offer home delivery services and family bundle to support their convenience and boost order volume.
+  - Develop a user-friendly website with real customers reviews. 
+- Young Adults & Youth
+  - Promote on platforms like TikTok, Instagram, Facebook and YouTube using influencer partnerships. 
+  - Introduce flexible payment options (e.g., installment plan) for affordability.
+  - Stock stylish, trend-forward sportswear and designers bike to attract younger buyers.
     
-- Product Popularity
 - Inventory Management
-   - Increase inventory for best selling products like the Road and Mountain Bikes so it will always be avaliable.
-   - More research should be carried on uderperforming product to know the best strategy to be employ.
-- Promotional Strategies:
-   - Leverage social media and email marketing to displaying products and new arrivals.
-   - Focus on best-selling products while working out other strategy to enhance sales performance for low performing products.
+   - Ensure consistent stock of best selling products like the Road and Mountain Bikes. 
+   - Analyze sales data of uderperforming products and adjust inventory or market strategy accordingly.
      
 - Sales Seasonality 
-  - Inventory should be stocked up for Peak Months:March, May, June, December, and April and reduced in other month.
-  - Based on Season Spring is the best period to stock goods up across all regions because it generates more revenue. Also with the fact that biking/cycling activities begins from spring.
+  - Inventory should be stocked on peak sales months:March, May, June, December and April
+  - Based on Season, stock up more on Spring which is the best performing season for cycling and outdoor activities.
     
 ### Dashboard
 
@@ -215,4 +206,4 @@ The dashboard includes:
 - Link to dashboard
     
 ### Conclusion
-Sports Sales stores is performing well but their is room for more growth. By leveraging social media, targeted marketing, regional expansion, and product bundling, the store can significantly boost sales and profitability. Implementing these will help maximize revenue and optimize decision-making that will boost sales and growth to a great percentage
+Sports Sales stores are performing well but their is room for more growth. By focusing on regional expansion, age trageting marketing, inventory planning the business can significantly improve sales and profitability. These actionable insights will drive smarter decisions, increase customer engagement and support long-term success.
