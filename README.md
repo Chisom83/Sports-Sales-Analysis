@@ -65,17 +65,26 @@ and reducing excess inventory during low-demand months.
 #### Total Revenue
 ![Revenue](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.revenue.png?raw=true)
 
-*Insight*
+- Insight
+   - Revenue surged from 2013 due to the introduction of more products (e.g., accessories and clothing).
+   - 2011 t0 2012 had limited growth with only two products Road Bike and Mountain Bike.
+   - More products variety led to higher revenue.
   
 #### Order Quantity
 ![Quanity](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.quantity.png?raw=true)
 
-*Insight*
+- Insight 
+   - Quantity increased steadily from 2013 to 2016.
+   - 2011 to 2012 had low orders due to limited product offerings.
+   - More products equals more customer demand.
 
 #### Total Profit
 ![Profit](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.profit.png?raw=true)
 
-*Insight*
+- Insight
+    - Profit increased alongside revenue.
+    - 2014 recorderd the highest profit and quantity sold, despite operating only from January to July.
+    - Strong demand and operational efficiency drove high profit.
 
 ### Business Requirement
 
@@ -84,7 +93,7 @@ A map chart was used to visualize this making use of the calculated total revenu
 
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Map.png"   alt="Age category" width="500"> <div></div>
      
-*Insights*     
+- Insights     
 - Australia:
    - Generated the highest revenue ($32.5M) across five (5) States showing that the bussiness thrive well in this region .
    - New South Wales is the highest-performing state with $17.6M generating more of the revenue in Austriallia.
@@ -114,7 +123,7 @@ A doughnut chart was used to analyze revenue by age category.
 
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Age%20cat.png"  alt="Age category" width="500"> <div></div>
      
-*Insights*     
+- Insights    
 - Our product appeal more to the Adult followed by the Young Adults.
 - Adults (Primary customers)
    - Generated $54.8M, significantly above the average of $34.1M.
@@ -139,7 +148,7 @@ A bar chart was used to analyze revenue by product subcategory.
 
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Product.png" alt="Product" width="500"> <div></div>
 
-*Insights*
+- Insights
 - Among all the product sold Bike generated more revenue of $76,254,413 followed by Accessories with $16,756,678 revenue  and lastly Clothing with $9,242,274 revenue.
 - Indicating that bike products are the popular products and key product of the business. Also, the business initially focused on bike products before it's expansion. 
 
@@ -159,7 +168,7 @@ A line chart was used to analyze the seasonal sales trend for the month while co
 
 <div aling="center"> <img src="https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/image/Season.png"  alt="Season" width="500"> <div></div>
 
-*Insights*
+- Insights
 
 Though the store experience a downward sales trend because of holiday and cycling period March still generate the highest revenue.
 
