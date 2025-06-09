@@ -63,7 +63,7 @@ and reducing excess inventory during low-demand months.
 
 ### KPIs
 #### Total Revenue
-> Image
+![Revenue](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.revenue.png?raw=true)
 
 *Insight*
   
