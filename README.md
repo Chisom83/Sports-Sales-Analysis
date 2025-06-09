@@ -73,7 +73,7 @@ and reducing excess inventory during low-demand months.
 *Insight*
 
 #### Total Profit
-![Profit](
+![Profit](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.profit.png?raw=true)
 
 *Insight*
 
