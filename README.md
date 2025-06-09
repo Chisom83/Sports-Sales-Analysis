@@ -68,12 +68,12 @@ and reducing excess inventory during low-demand months.
 *Insight*
   
 #### Order Quantity
-> Image
+![Quanity](https://github.com/Chisom83/Sports-Sales-Analysis/blob/main/Image%202/S.quantity.png?raw=true)
 
 *Insight*
 
 #### Total Profit
-> Image
+![Profit](
 
 *Insight*
 
